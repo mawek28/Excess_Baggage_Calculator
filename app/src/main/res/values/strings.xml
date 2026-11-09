@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Excess Baggage Calculator</string>
+    <string name="github_url">https://github.com/alween/ExcessBaggageCalculator</string>
+    <string name="copyright_notice">© 2026 Mohamed Alween bin Agus Salim (ICT602). All Rights Reserved.</string>
+
+    <string name="main_instruction">Instructions: Enter weight, choose class, enter rate, press Calculate.</string>
+    <string name="main_notice">Notice: Free allowance is 20 kg (Economy) and 40 kg (Business). 8% service tax is added to the total.</string>
+
+    <string name="excess_weight_format">Excess Weight: %.2f kg</string>
+    <string name="excess_charge_format">Excess Charge: RM %.2f</string>
+    <string name="total_payable_format">Total Amount Payable (incl. 8%% SST): RM %.2f</string>
+
+    <string-array name="ticket_classes">
+        <item>Economy (Free Limit: 20 kg)</item>
+        <item>Business (Free Limit: 40 kg)</item>
+    </string-array>
+</resources>
